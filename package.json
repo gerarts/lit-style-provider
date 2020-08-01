@@ -1,6 +1,6 @@
 {
   "name": "lit-style-provider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Style variable provider",
   "main": "dist/defaultLitStyleProvider.js",
   "types": "dist/defaultLitStyleProvider.d.ts",
