@@ -1,5 +1,5 @@
 {
   "name": "lit-style-provider/create",
-  "main": "../dist/StyleProvider.js",
-  "types": "../dist/StyleProvider.d.ts"
+  "main": "../dist/LitStyleProvider.js",
+  "types": "../dist/LitStyleProvider.d.ts"
 }
