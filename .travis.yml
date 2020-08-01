@@ -4,7 +4,7 @@ node_js:
   - "node"
 env:
   global:
-    CC_TEST_REPORTER_ID=EDITME
+    CC_TEST_REPORTER_ID=9621d08a11d7cc0cb16222a214b8fe156db71adcfd0186efe2638bf51981f973
 before_install:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
   - chmod +x ./cc-test-reporter
